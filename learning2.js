@@ -1,6 +1,2 @@
-document.write("A");
+document.write("B");
 
-console.log("I have made important changes into this file");
-
-console.log("I have made important changes into this file");console.log("I have made important changes into this file");
-console.log("I have made important changes into this file");
