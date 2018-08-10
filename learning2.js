@@ -1,6 +1,3 @@
-document.write("A");
+console.log(Sagar has made some changes);
 
-console.log("I have made important changes into this file");
-
-console.log("I have made important changes into this file");console.log("I have made important changes into this file");
-console.log("I have made important changes into this file");
+console.log(Sagar has made another changes);
