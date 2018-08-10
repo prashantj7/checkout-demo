@@ -1,1 +1,1 @@
-document.write("change 2");
+document.write("A");
